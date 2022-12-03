@@ -1,11 +1,10 @@
-Html and css Login Form Snow drop animation Themehakcodes
+This tutorial will show you how to create an animated profile card using HTML and CSS without the need for JavaScript. We'll cover the basics of HTML and CSS, including selectors, classes, and properties to create the card. Then, we'll use CSS transitions and animations to animate the card when the user hovers over it. We'll also go over how to make the card responsive so that it works on different devices and window sizes.
+By the end of the tutorial, you'll have a fully animated profile card that you can use on your website. We'll also provide you with the source code so that you can easily copy and paste the code into your own project.
+If you're looking for a way to make
 
+Video Link is here watch on youtube 
 
-
-Our channel is about Programming in all languages We cover lots of cool stuff such as Html,css,java php python many languages
-Check out our channel here:
-https://www.youtube.com/channel/UCXc7GWn_5thJbN_rGkYtkqA
-Don't forget to subscribe!
+https://youtu.be/iH0ezVf-uSA
 
 CHECK OUT OUR OTHER VIDEOS
 https://youtu.be/GWRaKoAe6L4
